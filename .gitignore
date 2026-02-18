@@ -1,0 +1,10 @@
+credentials.json
+token.json
+tokens/
+data/
+.venv/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+GmailJanitor/

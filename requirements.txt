@@ -1,0 +1,27 @@
+# Gmail API
+google-api-python-client>=2.160.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.1
+
+# Gemini AI
+google-genai>=1.5.0
+
+# Prompt management
+pyyaml>=6.0.2
+
+# Environment variables
+python-dotenv>=1.0.1
+
+# Structured output
+pydantic>=2.10.0
+
+# Table display
+tabulate>=0.9.0
+
+# Streamlit UI
+streamlit>=1.40.0
+
+# Notebook visualization
+plotly>=6.0.0
+pandas>=2.2.0
+ipykernel>=6.29.0
