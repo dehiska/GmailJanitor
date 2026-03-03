@@ -8,3 +8,4 @@ __pycache__/
 .env
 .ipynb_checkpoints/
 GmailJanitor/
+*.mp4
